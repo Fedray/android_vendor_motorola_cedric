@@ -135,7 +135,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/etc/permissions/cneapiclient.xml:system/vendor/etc/permissions/cneapiclient.xml \
     vendor/motorola/cedric/proprietary/etc/permissions/com.qti.location.sdk.xml:system/vendor/etc/permissions/com.qti.location.sdk.xml \
     vendor/motorola/cedric/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/vendor/etc/permissions/com.qti.snapdragon.sdk.display.xml \
-    vendor/motorola/cedric/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/vendor/etc/permissions/com.qualcomm.location.vzw_library.xml \
     vendor/motorola/cedric/proprietary/etc/permissions/com.qualcomm.location.xml:system/vendor/etc/permissions/com.qualcomm.location.xml \
     vendor/motorola/cedric/proprietary/etc/permissions/embms.xml:system/vendor/etc/permissions/embms.xml \
     vendor/motorola/cedric/proprietary/etc/permissions/ims.xml:system/vendor/etc/permissions/ims.xml \
